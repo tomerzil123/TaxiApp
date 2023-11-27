@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TaxiApp</string>
+    <string name="HomePage">Home Page</string>
+    <string name="EnterVoucherCode">Enter Voucher Code</string>
+    <string name="Promotions">Promotions</string>
+    <string name="Settings">Settings</string>
+    <string name="callBtn">Order Taxi By Call</string>
+    <string name="appBtn">Order Taxi By App</string>
+    <string name="target">Target</string>
+    <string name="startPoint">Start Point</string>
+    <string name="btnFindTaxi">Find Taxi</string>
+    <string name="google_maps_key">AIzaSyAPypofm1hRHxcLKipMmkro9pf4Gvr_gDE</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+
+</resources>
